@@ -1,7 +1,4 @@
-# Ćwiczenie 3
-
-Przedmiot SKPS  
-Szymon Dyszewski.
+# [SKPS] - Laboratorium 3
 
 Cel laboratorium:
 1. [x] Zapoznanie z SDK OpenWRT
